@@ -27,7 +27,7 @@ Visualisierungen & Insights
    Drama, Comedy und International Movies sind Spitzenreiter.
 
 5. Ratings (Altersfreigaben)
-   TV-MA (ab 17) ist die häufigste Freigabe.  Falsche Werte wie „66 min“ wurden bereinigt.
+   TV-MA (ab 17) ist die häufigste Freigabe.
 
 6. Filmlängen
    Die meisten Filme liegen zwischen 80–120 Minuten.
